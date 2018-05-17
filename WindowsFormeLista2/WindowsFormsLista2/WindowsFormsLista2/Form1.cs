@@ -38,6 +38,11 @@ namespace WindowsFormsLista2
                     Lista2Ex03 lista2ex3 = new Lista2Ex03();
                     lista2ex3.Show();
                 }
+                else if (Opcao == 4)
+                {
+                    Lista2Ex04 lista2Ex04 = new Lista2Ex04();
+                    lista2Ex04.Show();
+                }
 
             }
         }

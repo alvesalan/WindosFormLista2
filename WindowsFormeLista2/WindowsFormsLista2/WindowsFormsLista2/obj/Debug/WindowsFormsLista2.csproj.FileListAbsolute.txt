@@ -19,3 +19,4 @@ C:\Users\105014\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsForm
 C:\Users\105014\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.Lista2Ex03.resources
 C:\Users\105014\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.Properties.Resources.resources
 C:\Users\105014\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.csproj.GenerateResource.Cache
+C:\Users\105014\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.Lista2Ex04.resources
