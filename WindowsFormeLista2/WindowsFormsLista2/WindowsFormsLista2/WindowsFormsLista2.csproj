@@ -56,6 +56,12 @@
     <Compile Include="Lista2Ex01.Designer.cs">
       <DependentUpon>Lista2Ex01.cs</DependentUpon>
     </Compile>
+    <Compile Include="Lista2Ex02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lista2Ex02.Designer.cs">
+      <DependentUpon>Lista2Ex02.cs</DependentUpon>
+    </Compile>
     <Compile Include="Lista2Ex03.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +81,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Lista2Ex01.resx">
       <DependentUpon>Lista2Ex01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lista2Ex02.resx">
+      <DependentUpon>Lista2Ex02.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Lista2Ex03.resx">
       <DependentUpon>Lista2Ex03.cs</DependentUpon>

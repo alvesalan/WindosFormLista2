@@ -20,3 +20,16 @@ C:\Users\105014\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsForm
 C:\Users\105014\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.Properties.Resources.resources
 C:\Users\105014\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.csproj.GenerateResource.Cache
 C:\Users\105014\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.Lista2Ex04.resources
+C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\bin\Debug\WindowsFormsLista2.exe.config
+C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.exe
+C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.pdb
+C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\bin\Debug\WindowsFormsLista2.exe
+C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\bin\Debug\WindowsFormsLista2.pdb
+C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.csprojResolveAssemblyReference.cache
+C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.Form1.resources
+C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.Lista2Ex01.resources
+C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.Lista2Ex02.resources
+C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.Lista2Ex03.resources
+C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.Lista2Ex04.resources
+C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.Properties.Resources.resources
+C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.csproj.GenerateResource.Cache

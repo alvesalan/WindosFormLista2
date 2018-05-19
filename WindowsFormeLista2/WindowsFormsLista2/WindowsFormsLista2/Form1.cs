@@ -28,17 +28,22 @@ namespace WindowsFormsLista2
 
                Opcao = Convert.ToInt32(txt_Opcao.Text);
 
-                if (Opcao == 1)
+                if ((Opcao == 1) && (Opcao == 01))
                 {
                     Lista2Ex01 lista2ex01 = new Lista2Ex01();
                     lista2ex01.Show();
                 }
-                else if (Opcao == 3)
+                else if ((Opcao == 2) && (Opcao == 02))
+                {
+                    Lista2Ex02 lista2ex02 = new Lista2Ex02();
+                    lista2ex02.Show();
+                }
+                else if ((Opcao == 3) && (Opcao == 03))
                 {
                     Lista2Ex03 lista2ex3 = new Lista2Ex03();
                     lista2ex3.Show();
                 }
-                else if (Opcao == 4)
+                else if ((Opcao == 04) && (Opcao == 04))
                 {
                     Lista2Ex04 lista2Ex04 = new Lista2Ex04();
                     lista2Ex04.Show();
