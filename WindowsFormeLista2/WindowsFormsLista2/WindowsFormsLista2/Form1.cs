@@ -53,7 +53,11 @@ namespace WindowsFormsLista2
                     Lista2Ex05 lista2ex05 = new Lista2Ex05();
                     lista2ex05.Show();
                 }
-
+                else if ((Opcao == 06) && (Opcao == 6))
+                {
+                    Lista2Ex06 lista2ex06 = new Lista2Ex06();
+                    lista2ex06.Show();
+                }
             }
         }
 
