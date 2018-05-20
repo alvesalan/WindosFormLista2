@@ -49,6 +49,7 @@
             this.txt_Numero.Name = "txt_Numero";
             this.txt_Numero.Size = new System.Drawing.Size(100, 20);
             this.txt_Numero.TabIndex = 1;
+            this.txt_Numero.TextChanged += new System.EventHandler(this.txt_Numero_TextChanged);
             this.txt_Numero.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyDown);
             // 
             // groupBox1

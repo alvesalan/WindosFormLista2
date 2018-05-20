@@ -12,6 +12,8 @@ namespace WindowsFormsLista2
 {
     public partial class Lista2Ex04 : Form
     {
+        double Numero = 0;
+
         public Lista2Ex04()
         {
             InitializeComponent();
@@ -28,14 +30,33 @@ namespace WindowsFormsLista2
             {
                 try
                 {
-                    double Numero = Convert.ToDouble(txt_Numero.Text);
+                   Numero = Convert.ToDouble(txt_Numero.Text);
                 }
                 catch (Exception)
                 {
                     MessageBox.Show("Digite apenas numeros validos");
-                    
+                    return;
+                }
+
+
+                if (Numero == 0)
+                {
+                    MessageBox.Show("Numero neutro");
+                }
+                else if (Numero % 2 == 0)
+                {
+                    MessageBox.Show("Numero e par");
+                }
+                else if (Numero % 2 == 1)
+                {
+                    MessageBox.Show("Numero não e par");
                 }
             }
+        }
+
+        private void txt_Numero_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
