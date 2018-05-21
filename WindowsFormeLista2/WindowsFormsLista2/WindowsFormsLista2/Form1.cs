@@ -63,6 +63,11 @@ namespace WindowsFormsLista2
                     Lista2Ex07 lista2ex07 = new Lista2Ex07();
                     lista2ex07.Show();
                 }
+                else if ((Opcao == 08) && (Opcao == 8))
+                {
+                    Lista2Ex08 lista2ex08 = new Lista2Ex08();
+                    lista2ex08.Show();
+                }
             }
         }
 
