@@ -98,6 +98,24 @@
     <Compile Include="Lista2Ex07.Designer.cs">
       <DependentUpon>Lista2Ex07.cs</DependentUpon>
     </Compile>
+    <Compile Include="Lista2Ex08Contiacao1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lista2Ex08Contiacao1.Designer.cs">
+      <DependentUpon>Lista2Ex08Contiacao1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lista2Ex08Contiacao2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lista2Ex08Contiacao2.Designer.cs">
+      <DependentUpon>Lista2Ex08Contiacao2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lista2Ex08Contiacao3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lista2Ex08Contiacao3.Designer.cs">
+      <DependentUpon>Lista2Ex08Contiacao3.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -126,6 +144,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Lista2Ex07.resx">
       <DependentUpon>Lista2Ex07.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lista2Ex08Contiacao1.resx">
+      <DependentUpon>Lista2Ex08Contiacao1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lista2Ex08Contiacao2.resx">
+      <DependentUpon>Lista2Ex08Contiacao2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lista2Ex08Contiacao3.resx">
+      <DependentUpon>Lista2Ex08Contiacao3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

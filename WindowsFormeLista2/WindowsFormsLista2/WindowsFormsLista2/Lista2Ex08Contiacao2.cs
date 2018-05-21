@@ -10,23 +10,20 @@ using System.Windows.Forms;
 
 namespace WindowsFormsLista2
 {
-    public partial class Lista2Ex08 : Form
+    public partial class Lista2Ex08Contiacao2 : Form
     {
-        Lista2Ex08Contiacao1 lista2ex08continuacao1 = new Lista2Ex08Contiacao1();
-
-        
-
-        public Lista2Ex08()
+        Lista2Ex08Contiacao3 lista2ex08continuacao3 = new Lista2Ex08Contiacao3();
+        public Lista2Ex08Contiacao2()
         {
             InitializeComponent();
         }
 
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void txtMenu_TextChanged(object sender, EventArgs e)
         {
-            
+
         }
 
-        private void Lista2Ex08_Load(object sender, EventArgs e)
+        private void Lista2Ex08Contiacao2_Load(object sender, EventArgs e)
         {
             StringBuilder sb = new StringBuilder();
 
@@ -47,31 +44,25 @@ namespace WindowsFormsLista2
             sb.AppendLine("14-\tPizzas\tperuana\tR$ 18,36");
             sb.AppendLine("15-\tPizzas\tportuguesa\tR$ 27,50");
 
-                   
-            
+
+
             txtMenu.Text = Convert.ToString(sb);
         }
 
-        private void txtMenu_TextChanged(object sender, EventArgs e)
+        private void mtbOpcao_KeyDown(object sender, KeyEventArgs e)
         {
-
-        }
-
-        private void maskedTextBox1_KeyDown(object sender, KeyEventArgs e)
-        {
-            
 
             if (e.KeyCode == Keys.Enter)
             {
 
 
                 int Opcao = Convert.ToInt32(mtbOpcao.Text);
-               
+
                 double Valor = 0;
 
                 if (Opcao == 01)
                 {
-                    
+
                     Valor = 29.50;
 
                 }
@@ -133,16 +124,8 @@ namespace WindowsFormsLista2
                 }
 
                 DialogResult confirm = MessageBox.Show("Você tem certeza que e a opcão: " + Opcao + " de " + Valor + " R$", "Salvar Pedido", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation, MessageBoxDefaultButton.Button2);
-
-                lista2ex08continuacao1.Show();
-
-
+                lista2ex08continuacao3.Show();
             }
-        }
-
-        private void mtbOpcao_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
-        {
-
         }
     }
 }
