@@ -35,3 +35,4 @@ C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\Windo
 C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.csproj.GenerateResource.Cache
 C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.Lista2Ex05.resources
 C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.Lista2Ex06.resources
+C:\Users\Alan Eduardo\Documents\GitHub\WindosFormLista2\WindowsFormeLista2\WindowsFormsLista2\WindowsFormsLista2\obj\Debug\WindowsFormsLista2.Lista2Ex07.resources
